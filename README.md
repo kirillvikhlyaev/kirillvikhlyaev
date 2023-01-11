@@ -10,9 +10,9 @@
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=kirillvikhlyaev&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=kirillvikhlyaev&show_icons=true&count_private=truetheme=dark#gh-dark-mode-only)"/></a>
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=kirillvikhlyaev&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)"/></a>
    <a href="https://github.com/kirillvikhlyaev/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillvikhlyaev&layout=compacttheme=dark#gh-dark-mode-only)"/></a>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillvikhlyaev&layout=compact&theme=dark#gh-dark-mode-only)"/></a>
 </p>
 
 <p align='center'>

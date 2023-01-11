@@ -29,7 +29,7 @@
 ## 🛠️ Навыки
 
 - Dart, Java, Swift, Golang, JavaScript, HTML/CSS.
-- Bloc, Rxdart, Provider, WebRTC, Dio, Dart-shelf, WebSocket, REST Api, Integration-Test, Mockito, 
+- Bloc, Rxdart, Provider, WebRTC, Dio, Dart-shelf, WebSocket, REST Api, Http, Integration-Test, Mockito, Hive, Shared Preferences, Get, Intl
 - Widget-, Unit-, E2E- тесты.
 - SOLID, DRY, Clean Architecture.
 - Github, Gitlab, CI/CD.

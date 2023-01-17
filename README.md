@@ -49,6 +49,7 @@
 - **[Spiccato](https://github.com/kirillvikhlyaev/spiccato)** - Десктопное приложение для прослушивания аудиофайлов, написанный на Flutter/Dart.
 - **[FoodAnalyzator](https://github.com/kirillvikhlyaev/FoodAnalyzator)** - Поиск рецептов из библиотеки edamam. Расчет продуктов по калориям.  
 - **[BusTraffic](https://github.com/kirillvikhlyaev/BusTraffic)** - Приложения для МУП "Стерлитамакское троллейбусное управление" - позволяет пользователю отслеживать местоположение выбранного транспорта по городу
+- **[todo-extractor](https://github.com/kirillvikhlyaev/todo_extractor)** - скрипт, позволяющий пробегаться по всему проекту (или по отдельным директориям) и собирать все TODO метки - на выходе генерирует `.md`-файл (можно выбрать упрощенный формат с расширением .txt) со списком TODO меток.
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/kirillvikhlyaev/github-profile-views-counter">

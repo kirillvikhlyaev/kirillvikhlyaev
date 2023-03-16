@@ -15,7 +15,6 @@
   </a>&nbsp;&nbsp;
  <p align='center'>
   📫: <a href='mailto:kirillvikhlyaev88@yandex.ru'>kirillvikhlyaev88@yandex.ru</a>
-  📰: <a href="https://disk.yandex.ru/i/B-jNkQOvT6bx6w">Резюме PDF</a>
 </p>
 
 ## 🛠️ Навыки

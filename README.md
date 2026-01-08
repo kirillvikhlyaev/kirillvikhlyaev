@@ -1,11 +1,5 @@
 # Привет, меня зовут Кирилл 🌌
 
-Разрабатываю кроссплатформенные приложения на **Flutter/Dart**. Имею опыт нативной разработки для **iOS (Swift/UIKit)** и **Android (Java)**. Большой опыт в тестировании приложений (widget, unit, integration) – был наставником у небольшой группы людей из QA отдела. Работаю с git, понимаю технологию CI/CD.
-
-- Имею высшее образование (Прикладная математика и информатика).
-- Способен поддерживать такие платформы как: Android, iOS, Web, Windows, MacOS.
-- Могу покрыть качественными тестами 70%+ проекта.
-
 <p align='center'>
    <a href="https://t.me/kirillvikhlyaev" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
@@ -15,32 +9,10 @@
   </a>&nbsp;&nbsp;
  <p align='center'>
   📫: <a href='mailto:kirillvikhlyaev88@yandex.ru'>kirillvikhlyaev88@yandex.ru</a>
+</p> 
+<p align='center'>
+  📫: <a href='www.linkedin.com/in/kirillvikhlyaev'>LinkedIn</a>
 </p>
-
-## 🛠️ Навыки
-
-- Dart, Java, Swift, Golang, JavaScript, HTML/CSS.
-- Bloc, Rxdart, Provider, WebRTC, Dio, Dart-shelf, WebSocket, REST Api, Http, Integration-Test, Mockito, Hive, Shared Preferences, Get, Intl, DartVLC
-- Widget-, Unit-, E2E- тесты.
-- SOLID, DRY, Clean Architecture.
-- Github, Gitlab, CI/CD.
-- Figma, Postman, Google Devtools.
-- Adobe Photoshop, Illustrator, Premiere.
-- VS Code, Android Studio.
-- Miro, PlantUML.
-- Git.
-
-
-- Русский - родной.
-- Английский - B1.
-
-## 🧙 Дополнительное образование
-
-- Курсы "IT Academy SAMSUNG: разработчик Android-приложений" - **2020-2021**
-- Курсы "Flutter-разработчик" - **2022**
-- Курсы «LazyLoad Dart & Flutter» - **2022**
-- Курсы «iOS & Swift - The Complete iOS App Development Bootcamp - **2022**
-
 
 ## 🌱 Пет-проекты
 

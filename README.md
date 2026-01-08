@@ -13,6 +13,9 @@
 <p align='center'>
   🔗: <a href='www.linkedin.com/in/kirillvikhlyaev'>LinkedIn</a>
 </p>
+<p align='center'>
+  🔗: <a href='[www.linkedin.com/in/kirillvikhlyaev](https://leetcode.com/u/kvikhlyaev/)'>LeetCode</a>
+</p>
 
 ## 🌱 Пет-проекты
 

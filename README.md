@@ -11,7 +11,7 @@
   📫: <a href='mailto:kirillvikhlyaev88@yandex.ru'>kirillvikhlyaev88@yandex.ru</a>
 </p> 
 <p align='center'>
-  📫: <a href='www.linkedin.com/in/kirillvikhlyaev'>LinkedIn</a>
+  🔗: <a href='www.linkedin.com/in/kirillvikhlyaev'>LinkedIn</a>
 </p>
 
 ## 🌱 Пет-проекты
